@@ -63,10 +63,14 @@ print(replace_python
 Split the string 'Coding For All' using space as the separator (split()) .
 
 
-"Facebook, Google, Microsoft, Apple, IBM, Oracle, Amazon" split the string at the comma.
+#"Facebook, Google, Microsoft, Apple, IBM, Oracle, Amazon" split the string at the comma.
 What is the character at index 0 in the string Coding For All.
-What is the last index of the string Coding For All.
-What character is at index 10 in "Coding For All" string.
+
+
+#What is the last index of the string Coding For All.
+
+
+#What character is at index 10 in "Coding For All" string.
 Create an acronym or an abbreviation for the name 'Python For Everyone'.
 Create an acronym or an abbreviation for the name 'Coding For All'.
 Use index to determine the position of the first occurrence of C in Coding For All.
